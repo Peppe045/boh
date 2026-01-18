@@ -1,0 +1,43 @@
+{
+  "name": "Peppe",
+  "subtitle": "App",
+  "description": "ciao",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "SpotiFLAC",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "marketplaceID": "93840932",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/wPH5kFg.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Peppe045/boh/raw/refs/heads/main/ciao.ipa",
+          "size": 23600000,
+          "version": "3.1.1",
+          "buildVersion": null,
+          "date": "2026-01-18T11:33:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "SpotiFLAC needs access to save album artwork"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
