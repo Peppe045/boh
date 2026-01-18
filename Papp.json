@@ -1,0 +1,45 @@
+{
+  "name": "PeppeApp",
+  "subtitle": "Appldo9",
+  "description": "ciao",
+  "iconURL": "https://i.imgur.com/tCepk7K.png",
+  "website": "https://github.io",
+
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.zarz.spotiflacAndroid"
+  ],
+  "apps": [
+    {
+      "name": "SpotiFLAC",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "marketplaceID": "93840932",
+      "developerName": "peppes",
+      "subtitle": "Bellissima app",
+      "localizedDescription": "Altstore domeniche",
+      "iconURL": "https://i.imgur.com/wPH5kFg.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Peppe045/boh/raw/refs/heads/main/ciao.ipa",
+          "size": 23600000,
+          "version": "3.1.1",
+          "buildVersion": "132",
+          "date": "2026-01-18T10:33:00+01:00",
+          "localizedDescription": "kvosmd",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "SpotiFLAC needs access to save album artwork"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
